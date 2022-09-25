@@ -1,0 +1,16 @@
+Simplified text-uppercase in files
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Sep 24 15:54:25 2022 +0530
+#
+# On branch main
+# Changes to be committed:
+#	modified:   docs/index.html
+#
+# Changes not staged for commit:
+#	modified:   docs/columns.html
+#	modified:   docs/index.html
+#	modified:   docs/media.html
+#
